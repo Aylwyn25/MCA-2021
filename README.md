@@ -1,2 +1,3 @@
 # MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+Central Theme: Erik Satie
+On the Petrucci Music Library (imslp.org), Satie's works are collated as Compositions, Collections and As Dedicatee. Furthermore, choosing one of their sub-options will take you to recordings, scores and MIDI files of the piece selected.
