@@ -22,4 +22,4 @@ Python Notebook completed (local save not possible, saved to Jupyter Notebook it
 
 ![My Scatter Plot](/My Scatter Plot.png)
 
-![Pitch Histogram[(/PitchHistogram.png)
+![Pitch Histogram](/PitchHistogram.png)
