@@ -13,3 +13,7 @@ Q3) On the Petrucci Music Library, known by the acronym [IMSLP](https://www.imsl
 ## *Week 3*
 
 [Link to submitted score](verovio.html)
+
+## *Week 4*
+
+Python Notebook completed (local save not possible, saved to Jupyter Notebook itself). Added images of generated graphs, as well as jSymbolic analysis. Another week done!
