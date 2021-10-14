@@ -20,6 +20,6 @@ Python Notebook completed (local save not possible, saved to Jupyter Notebook it
 
 ![Piano Roll](/PianoRoll.png)
 
-![My Scatter Plot](/My Scatter Plot.png)
+![Scatter Plot](/MyScatterPlot.png)
 
 ![Pitch Histogram](/PitchHistogram.png)
