@@ -23,3 +23,5 @@ Python Notebook completed (local save not possible, saved to Jupyter Notebook it
 ![Scatter Plot](/MyScatterPlot.png)
 
 ![Pitch Histogram](/PitchHistogram.png)
+
+![Pitch Class Histogram jSymbolic Extracted](/PitchClassHistogramCSVExtracted.png)
