@@ -16,6 +16,10 @@ Q3) On the Petrucci Music Library, known by the acronym [IMSLP](https://www.imsl
 
 ## *Week 4*
 
-Python Notebook completed (local save not possible, saved to Jupyter Notebook itself). Added images of generated graphs, as well as jSymbolic analysis. Another week done!
+Python Notebook completed (local save not possible, saved to Jupyter Notebook itself). Added images of generated graphs, shown below, as well as jSymbolic analysis. Another week done!
 
 ![Piano Roll](/PianoRoll.png)
+
+![My Scatter Plot](/My Scatter Plot.png)
+
+![Pitch Histogram[(/PitchHistogram.png)
