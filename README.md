@@ -12,7 +12,7 @@ Q3) On the Petrucci Music Library, known by the acronym [IMSLP](https://www.imsl
 
 ## *Week 3*
 
-[Link to submitted score](verovio.html)
+Edited file in Verovio, moving forwards towards MEI manipulation.
 
 ## *Week 4*
 
@@ -25,3 +25,7 @@ Python Notebook completed (local save not possible, saved to Jupyter Notebook it
 ![Pitch Histogram](/PitchHistogram.png)
 
 ![Pitch Class Histogram jSymbolic Extracted](/PitchClassHistogramCSVExtracted.png)
+
+## *Week 5*
+
+Completed metadata enrichment within MEI file using the [ARC Schema](http://wiki.collex.org/index.php/Submitting_RDF) as well as the additional [MuSO Metadata Standards](https://muso.arts.gla.ac.uk/metadata-standards.html).
