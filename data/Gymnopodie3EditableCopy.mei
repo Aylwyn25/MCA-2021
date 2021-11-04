@@ -4,14 +4,14 @@
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
    <meiHead>
       <fileDesc>
-         <titleStmt>
+         <titleStmt xml:id="AylwynsProject">
             <arranger>Erik Satie</arranger>
             <date>1888</date>
-         </titleStmt xml:id="AylwynProject">
-             <title auth.uri="https://dbpedia.org/page/Gymnop%C3%A9dies" auth="DBPedia" xml:id="ThePiece">Gymnopodie 3 (1888))</title>
-                <title type="subtitle">
-                   <identifier>Part of Satie's 'Trois Gymnopodies'</identifier>
-             </title>
+            <title auth.uri="https://dbpedia.org/page/Gymnop%C3%A9dies" auth="DBPedia" xml:id="ThePiece">Gymnopodie 3 (1888))</title>
+            <title type="subtitle">
+               <identifier>Part of Satie's 'Trois Gymnopodies'</identifier>
+            </title>
+         </titleStmt>
          <respStmt>
             <persName role="cmp" auth.uri="https://dbpedia.org/page/Erik_Satie" auth="DBPedia" xml:id="workcomposer">Erik Satie</persName>
          </respStmt>
