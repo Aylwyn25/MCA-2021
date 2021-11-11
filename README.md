@@ -55,11 +55,12 @@ Reading week, babyyyyyyyyyyyyyyyyyy! :trollface:
 | Bits per second | 320kbps | 320kbps | 320kbps |
 | Duration | 3m36s | 2m55s | 4m54s |
 
-Gymnopodie No.1 Spectogram
+
+##### *Gymnopodie No.1 Spectogram*
 ![Erik Satie - Gymnopedie No 1](https://user-images.githubusercontent.com/91611135/141308810-3f79eb63-07a7-4dd1-857e-673e927e7563.png)
 
-Gymnopodie No.2 Spectogram
+##### *Gymnopodie No.2 Spectogram*
 ![Erik Satie - Gymnopedie No 2](https://user-images.githubusercontent.com/91611135/141309790-01c7cc30-e791-4643-b41c-1752bf9fd2ac.png)
 
-Gymnopodie No.3 Spectogram
+##### *Gymnopodie No.3 Spectogram*
 ![Erik Satie - Gymnopedie No 3](https://user-images.githubusercontent.com/91611135/141309794-690b76c3-e51c-4db5-9bb1-539cb43d6235.png)
