@@ -29,3 +29,34 @@ Python Notebook completed (local save not possible, saved to Jupyter Notebook it
 ## *Week 5*
 
 Completed metadata enrichment within MEI file using the [ARC Schema](http://wiki.collex.org/index.php/Submitting_RDF) as well as the additional [MuSO Metadata Standards](https://muso.arts.gla.ac.uk/metadata-standards.html).
+
+## *Week 6*
+
+Reading week, babyyyyyyyyyyyyyyyyyy! :trollface:
+
+
+## *Week 7*
+
+
+
+## *Week 8*
+
+| Metadata Attribute | Track 1 | Track 2 | Track 3 |
+| --- | --- | --- | --- |
+| Title | Gymnopodie No.1 | Gymnopodie No.2 | Gymnopodie No.3 |
+| Artist | Daniel Varsano | Riri Shimada | Jeroen van Veen |
+| Composer | Erik Satie | Erik Satie | Erik Satie |
+| Copyright Info | SME (on behalf of Sony Music Entertainment) | SME (on behalf of Sony Music Japan International) | Kontor New Media Music (on behalf of Brilliant Classics) |
+| Genre | Minimalism | Minimalism | Minimalism |
+| Source | YouTube | YouTube | YouTube |
+| File/audio format | mp3 | mp3 | mp3 |
+| Number of channels | 2 | 2 | 2 |
+| Sample rate | 48kHz | 48 kHz | 48kHz |
+| Bits per second | 320kbps | 320kbps | 320kbps |
+| Duration | 3m36s | 2m55s | 4m54s |
+
+![Erik Satie - Gymnopedie No 1](https://user-images.githubusercontent.com/91611135/141308810-3f79eb63-07a7-4dd1-857e-673e927e7563.png)
+
+![Erik Satie - Gymnopedie No 2](https://user-images.githubusercontent.com/91611135/141309790-01c7cc30-e791-4643-b41c-1752bf9fd2ac.png)
+
+![Erik Satie - Gymnopedie No 3](https://user-images.githubusercontent.com/91611135/141309794-690b76c3-e51c-4db5-9bb1-539cb43d6235.png)
