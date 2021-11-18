@@ -68,3 +68,5 @@ Reading week, babyyyyyyyyyyyyyyyyyy! :trollface:
 ## *Week 9*
 
 ![Gnossienne No1 Screenshot](/GnossienneNo1Screenshot.png)
+
+![MFCCHistogramsJupyter](https://user-images.githubusercontent.com/91611135/142428169-8dad8bbf-9a4e-4dc8-b9d9-2d1a0eb6b12a.png)
