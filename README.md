@@ -64,3 +64,7 @@ Reading week, babyyyyyyyyyyyyyyyyyy! :trollface:
 
 ##### *Gymnopodie No.3 Spectogram*
 ![Erik Satie - Gymnopedie No 3](https://user-images.githubusercontent.com/91611135/141309794-690b76c3-e51c-4db5-9bb1-539cb43d6235.png)
+
+## *Week 9*
+
+![Gnossienne No1 Screenshot](/GnossienneNo1Screenshot.png)
