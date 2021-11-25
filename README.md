@@ -70,3 +70,13 @@ Reading week, babyyyyyyyyyyyyyyyyyy! :trollface:
 ![Gnossienne No1 Screenshot](/GnossienneNo1Screenshot.png)
 
 ![MFCCHistogramsJupyter](https://user-images.githubusercontent.com/91611135/142428169-8dad8bbf-9a4e-4dc8-b9d9-2d1a0eb6b12a.png)
+
+## *Week 10*
+
+![3Chromagrams](https://user-images.githubusercontent.com/91611135/143461280-7c458194-9431-440e-ae66-cc97ae423961.png)
+
+I felt it was important to put the images side-by-side; it illustrates both how similar all the images are, arguably making any differences hard to distinguish, yet also that there are different pockets of sound, highlighted with the different orange and red tones found in different areas of the chromagrams themselves.
+
+![image](https://user-images.githubusercontent.com/91611135/143463025-a6dc7388-56f9-4916-ab1c-6c4fed82b6f8.png)
+
+The similarity matrix of the new pieces can be seen above.
