@@ -80,3 +80,17 @@ I felt it was important to put the images side-by-side; it illustrates both how 
 ![image](https://user-images.githubusercontent.com/91611135/143463025-a6dc7388-56f9-4916-ab1c-6c4fed82b6f8.png)
 
 The similarity matrix of the new pieces can be seen above.
+
+---
+
+![image](https://user-images.githubusercontent.com/91611135/143465777-c1ac5a94-4d41-49ef-a1ff-3f81e9dfdd35.png)
+
+.mscz opened in Musescore
+
+![image](https://user-images.githubusercontent.com/91611135/143465958-cd02820f-3935-48be-9b3f-baa9a71874cd.png)
+
+.mid opened in Musescore
+
+When comparing the two scores, there are striking differences between both. Firstly, the scales are vastly different - the first appearing to have spread out the score to what would appear normal to a Western audience. The second being more convoluted, and arguably complex, by clustering the notes together in an atypical fashion.
+
+Furthermore, the scores do not appear to play by the same rules in terms of clefs or notation. While visually they are strikingly different, by playing both audio streams as wll as viewing them, we can see the mistakes that have been made in the notation. Software and AI are impressive, but have not gotten us to the point of flawless quite yet.
