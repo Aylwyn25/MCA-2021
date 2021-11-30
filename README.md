@@ -14,9 +14,33 @@ Q3) On the Petrucci Music Library, known by the acronym [IMSLP](https://www.imsl
 
 10 bars of Erik Satie edited... **WOOHOO!** :tada: Personal Github page edited to represent said changes.
 
+![Editing Comparison](https://user-images.githubusercontent.com/91611135/144056644-0aff2599-effd-4d86-96d6-fa20fc7b8b11.png)
+
+Above shows the original score on the left, compared with the 10 bars of editing that have been committed on the right. Note that when played, the scores are unquestionably altered, but the changes on the eye can be very subtle.
+
 ## *Week 3*
 
-Edited file in Verovio, moving forwards towards MEI manipulation.
+Edited file in Verovio, moving forwards towards MEI manipulation. The Verovio score can be seen below:
+
+<div id="app">Verovio is loading...</div>
+<script type="module">
+import 'https://www.verovio.org/javascript/app/verovio-app.js';
+const options = {
+defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+defaultZoom: 3, // 0-7, default is 4
+enableResponsive: true, // default is true
+enableDocument: true // default is true
+}
+var file = 'data/Gymnopodie 3.mei';
+const app = new Verovio.App(document.getElementById("app"), options);
+fetch(file)
+.then(function(response) {
+return response.text();
+})
+.then(function(text) {
+app.loadData(text);
+});
+</script>
 
 ## *Week 4*
 
