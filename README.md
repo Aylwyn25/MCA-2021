@@ -56,7 +56,7 @@ Python Notebook completed (local save not possible, saved to Jupyter Notebook it
 
 ## *Week 5*
 
-Completed metadata enrichment within MEI file using the [ARC Schema](http://wiki.collex.org/index.php/Submitting_RDF) as well as the additional [MuSO Metadata Standards](https://muso.arts.gla.ac.uk/metadata-standards.html).
+Completed metadata enrichment within MEI file using the [ARC Schema](http://wiki.collex.org/index.php/Submitting_RDF) as well as the additional [MuSO Metadata Standards](https://muso.arts.gla.ac.uk/metadata-standards.html). Changes can be found within my [MEI file](https://github.com/Aylwyn25/MCA-2021/blob/master/data/Gymnopodie3EditableCopy.mei). The changes to its metadata include edition, date, response statement, name, editor, date, place of publishing, notes statement and project description.
 
 ## *Week 6*
 
