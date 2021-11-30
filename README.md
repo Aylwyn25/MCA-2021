@@ -2,6 +2,10 @@
 
 ## *Week 1*
 
+MCA GitHub repository cloned and README.md file edited, as requested. The file can be found [here](https://github.com/Aylwyn25/MCA-2021/blob/master/README.md).
+
+Answers to questions:
+
 Q2) Central Theme: Erik Satie.
 
 Q3) On the Petrucci Music Library, known by the acronym [IMSLP](https://www.imslp.org/), Satie's works are collated as Compositions, Collections and As Dedicatee. Furthermore, choosing one of their sub-options will take you to recordings, scores and MIDI files of the piece selected.
