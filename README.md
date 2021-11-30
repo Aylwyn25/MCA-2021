@@ -14,7 +14,7 @@ Q3) On the Petrucci Music Library, known by the acronym [IMSLP](https://www.imsl
 
 10 bars of Erik Satie edited... **WOOHOO!** :tada: Personal Github page edited to represent said changes.
 
-![Editing Comparison](https://user-images.githubusercontent.com/91611135/144056644-0aff2599-effd-4d86-96d6-fa20fc7b8b11.png)
+![Editing Comparison](https://user-images.githubusercontent.com/91611135/144060686-408cb284-803b-452e-91e1-3987b5d346ba.png)
 
 Above shows the original score on the left, compared with the 10 bars of editing that have been committed on the right. Note that when played, the scores are unquestionably altered, but the changes on the eye can be very subtle.
 
