@@ -20,7 +20,7 @@ Above shows the original score on the left, compared with the 10 bars of editing
 
 ## *Week 3*
 
-Edited file in Verovio, moving forwards towards MEI manipulation. The Verovio score can be seen below:
+Edited file in Verovio, moving forwards towards MEI manipulation. The Verovio score can be seen below (please note, whilst the page appears as code in editing format, when viewed on the [actual page](https://aylwyn25.github.io/MCA-2021/) it appears correctly:
 
 <div id="app">Verovio is loading...</div>
 <script type="module">
