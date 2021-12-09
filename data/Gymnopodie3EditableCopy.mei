@@ -16,7 +16,7 @@
             <persName role="cmp" auth.uri="https://dbpedia.org/page/Erik_Satie" auth="DBPedia" xml:id="workcomposer">Erik Satie</persName>
          </respStmt>
          <editionStmt>
-            <edition>Second draft for editing, significantly modified Metadata,
+            <edition>Second draft for editing, significantly modified Metadata.</edition>
                <date>2021-11-04</date>
                <respStmt>Revised by</respStmt>
                <name>Aylwyn Napier</name>
