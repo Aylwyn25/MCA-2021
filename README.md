@@ -65,7 +65,27 @@ Reading week, babyyyyyyyyyyyyyyyyyy! :trollface:
 
 ## *Week 7*
 
+The most troublesome week, by far. Multiple edits and re-edits left me with the only week that I'm unhappy with my work. Whilst the metadata I wished to be in the file is completed and inside the code, the presentation from Verovio is not quite what I would like, which will be apparent when viewed below.
 
+<div id="app">Verovio is loading...</div>
+<script type="module">
+import 'https://www.verovio.org/javascript/app/verovio-app.js';
+const options = {
+defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+defaultZoom: 3, // 0-7, default is 4
+enableResponsive: true, // default is true
+enableDocument: true // default is true
+}
+var file = 'MyMeta.html';
+const app = new Verovio.App(document.getElementById("app"), options);
+fetch(file)
+.then(function(response) {
+return response.text();
+})
+.then(function(text) {
+app.loadData(text);
+});
+</script>
 
 ## *Week 8*
 
