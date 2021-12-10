@@ -65,7 +65,7 @@ Reading week, babyyyyyyyyyyyyyyyyyy! :trollface:
 
 ## *Week 7*
 
-The most troublesome week, by far. Multiple edits and re-edits left me with the only week that I'm unhappy with my work. Whilst the metadata I wished to be in the file is completed and inside the code, the presentation from Verovio is not quite what I would like, which will be apparent when viewed below. I have unsuccesfully attempted to embed the program, and thus my score can be viewed [here]<https://aylwyn25.github.io/MCA-2021/myMeta.html>.
+The most troublesome week, by far. Multiple edits and re-edits left me with the only week that I'm unhappy with my work. Whilst the metadata I wished to be in the file is completed and inside the code, the presentation from Verovio is not quite what I would like, which will be apparent when viewed below. I have unsuccesfully attempted to embed the program, and thus my score can be viewed [here](https://aylwyn25.github.io/MCA-2021/myMeta.html).
 
 <div id="app">Verovio is loading...</div>
 <script type="module">
